@@ -1,0 +1,12 @@
+H:\Study\C#\C#_Basis\1_抽象类\Project\CSharpBasis\bin\Debug\CSharpBasis.exe.config
+H:\Study\C#\C#_Basis\1_抽象类\Project\CSharpBasis\bin\Debug\CSharpBasis.exe
+H:\Study\C#\C#_Basis\1_抽象类\Project\CSharpBasis\bin\Debug\CSharpBasis.pdb
+H:\Study\C#\C#_Basis\1_抽象类\Project\CSharpBasis\obj\Debug\CSharpBasis.exe
+H:\Study\C#\C#_Basis\1_抽象类\Project\CSharpBasis\obj\Debug\CSharpBasis.pdb
+H:\Study\C#\C#_Basis\1_抽象类\Project\CSharpBasis\obj\Debug\CSharpBasis.csprojAssemblyReference.cache
+H:\Study\C#\C#_Basis\Project\CSharpBasis\bin\Debug\CSharpBasis.exe.config
+H:\Study\C#\C#_Basis\Project\CSharpBasis\bin\Debug\CSharpBasis.exe
+H:\Study\C#\C#_Basis\Project\CSharpBasis\bin\Debug\CSharpBasis.pdb
+H:\Study\C#\C#_Basis\Project\CSharpBasis\obj\Debug\CSharpBasis.csprojAssemblyReference.cache
+H:\Study\C#\C#_Basis\Project\CSharpBasis\obj\Debug\CSharpBasis.exe
+H:\Study\C#\C#_Basis\Project\CSharpBasis\obj\Debug\CSharpBasis.pdb
